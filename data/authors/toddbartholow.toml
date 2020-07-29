@@ -1,0 +1,13 @@
+id = "toddbartholow"
+
+[email]
+username = "todd.bartholow"
+host = "protonmail.com"
+
+[name]
+display = "Todd Bartholow"
+
+[social]
+email = "todd.bartholow@protonmail.com"
+#facebook  = "toddbartholow"
+twitter = "toddbartholow"
